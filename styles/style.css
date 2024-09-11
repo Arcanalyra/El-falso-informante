@@ -23,6 +23,9 @@ body{
 
 .header{
     padding: 2% 0% 0% 15%;
+    align-items: center;
+    align-content: center;
+    align-self: auto;
 }
 
 .header__menu{
